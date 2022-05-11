@@ -1,2 +1,2 @@
 # minecraft-info.nse
-This script queries information from a minecraft server, using mcstatus. note: You must have mcstatus installed for the script to work.
+This nmap script allows you to query information from a Minecraft server, using mcstatus. note: you must have mcstatus installed for the script to work.
